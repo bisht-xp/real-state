@@ -22,7 +22,7 @@ jobs:
         run: npm install
 
       - name: Generate Screenshot
-        run: node generate-screenshot.js
+        run: node screenShot.js
 
       - name: Commit Screenshot
         run: |

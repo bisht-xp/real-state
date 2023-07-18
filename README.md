@@ -39,4 +39,4 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 ## Update Image Every Change
 
-![Updated Change ](https://github.com/bisht-xp/real-state/tree/main/public/screenshort.png)
+![Updated Change ](https://github.com/bisht-xp/real-state/blob/main/public/screenshot.png)

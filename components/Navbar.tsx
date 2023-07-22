@@ -12,7 +12,7 @@ function Navbar() {
     <>
       <nav className="relative px-4 py-4 flex justify-between items-center bg-white">
         <Link className="text-3xl font-bold leading-none font-roboto " href="#">
-          DreamHome
+          LuckyHOme
         </Link>
         <div className="lg:hidden">
           <button

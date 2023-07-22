@@ -24,6 +24,10 @@ jobs:
       - name: Generate Screenshot
         run: node screenShort.js
 
+      - name: Set Remote URL
+        run: |
+          git remote set-url origin https://github.com/bisht-xp/real-state.git
+
       - name: Commit Screenshot
         run: |
           git config --global user.name "bisht-xp"
